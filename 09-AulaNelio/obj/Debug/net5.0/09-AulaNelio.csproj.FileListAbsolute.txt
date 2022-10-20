@@ -1,0 +1,16 @@
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\09-Enumeracoes_composicoes\09-AulaNelio\bin\Debug\net5.0\09-AulaNelio.exe
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\09-Enumeracoes_composicoes\09-AulaNelio\bin\Debug\net5.0\09-AulaNelio.deps.json
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\09-Enumeracoes_composicoes\09-AulaNelio\bin\Debug\net5.0\09-AulaNelio.runtimeconfig.json
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\09-Enumeracoes_composicoes\09-AulaNelio\bin\Debug\net5.0\09-AulaNelio.runtimeconfig.dev.json
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\09-Enumeracoes_composicoes\09-AulaNelio\bin\Debug\net5.0\09-AulaNelio.dll
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\09-Enumeracoes_composicoes\09-AulaNelio\bin\Debug\net5.0\09-AulaNelio.pdb
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\09-Enumeracoes_composicoes\09-AulaNelio\obj\Debug\net5.0\09-AulaNelio.csproj.AssemblyReference.cache
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\09-Enumeracoes_composicoes\09-AulaNelio\obj\Debug\net5.0\09-AulaNelio.GeneratedMSBuildEditorConfig.editorconfig
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\09-Enumeracoes_composicoes\09-AulaNelio\obj\Debug\net5.0\09-AulaNelio.AssemblyInfoInputs.cache
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\09-Enumeracoes_composicoes\09-AulaNelio\obj\Debug\net5.0\09-AulaNelio.AssemblyInfo.cs
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\09-Enumeracoes_composicoes\09-AulaNelio\obj\Debug\net5.0\09-AulaNelio.csproj.CoreCompileInputs.cache
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\09-Enumeracoes_composicoes\09-AulaNelio\obj\Debug\net5.0\09-AulaNelio.dll
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\09-Enumeracoes_composicoes\09-AulaNelio\obj\Debug\net5.0\ref\09-AulaNelio.dll
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\09-Enumeracoes_composicoes\09-AulaNelio\obj\Debug\net5.0\09-AulaNelio.pdb
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\09-Enumeracoes_composicoes\09-AulaNelio\obj\Debug\net5.0\09-AulaNelio.genruntimeconfig.cache
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\09-Enumeracoes_composicoes\09-AulaNelio\obj\Debug\net5.0\refint\09-AulaNelio.dll
