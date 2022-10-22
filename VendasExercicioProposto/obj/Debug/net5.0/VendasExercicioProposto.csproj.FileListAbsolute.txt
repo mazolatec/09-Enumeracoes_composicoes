@@ -1,0 +1,16 @@
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\09-Enumeracoes_composicoes\VendasExercicioProposto\bin\Debug\net5.0\VendasExercicioProposto.exe
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\09-Enumeracoes_composicoes\VendasExercicioProposto\bin\Debug\net5.0\VendasExercicioProposto.deps.json
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\09-Enumeracoes_composicoes\VendasExercicioProposto\bin\Debug\net5.0\VendasExercicioProposto.runtimeconfig.json
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\09-Enumeracoes_composicoes\VendasExercicioProposto\bin\Debug\net5.0\VendasExercicioProposto.runtimeconfig.dev.json
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\09-Enumeracoes_composicoes\VendasExercicioProposto\bin\Debug\net5.0\VendasExercicioProposto.dll
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\09-Enumeracoes_composicoes\VendasExercicioProposto\bin\Debug\net5.0\ref\VendasExercicioProposto.dll
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\09-Enumeracoes_composicoes\VendasExercicioProposto\bin\Debug\net5.0\VendasExercicioProposto.pdb
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\09-Enumeracoes_composicoes\VendasExercicioProposto\obj\Debug\net5.0\VendasExercicioProposto.csproj.AssemblyReference.cache
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\09-Enumeracoes_composicoes\VendasExercicioProposto\obj\Debug\net5.0\VendasExercicioProposto.GeneratedMSBuildEditorConfig.editorconfig
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\09-Enumeracoes_composicoes\VendasExercicioProposto\obj\Debug\net5.0\VendasExercicioProposto.AssemblyInfoInputs.cache
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\09-Enumeracoes_composicoes\VendasExercicioProposto\obj\Debug\net5.0\VendasExercicioProposto.AssemblyInfo.cs
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\09-Enumeracoes_composicoes\VendasExercicioProposto\obj\Debug\net5.0\VendasExercicioProposto.csproj.CoreCompileInputs.cache
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\09-Enumeracoes_composicoes\VendasExercicioProposto\obj\Debug\net5.0\VendasExercicioProposto.dll
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\09-Enumeracoes_composicoes\VendasExercicioProposto\obj\Debug\net5.0\ref\VendasExercicioProposto.dll
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\09-Enumeracoes_composicoes\VendasExercicioProposto\obj\Debug\net5.0\VendasExercicioProposto.pdb
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\09-Enumeracoes_composicoes\VendasExercicioProposto\obj\Debug\net5.0\VendasExercicioProposto.genruntimeconfig.cache

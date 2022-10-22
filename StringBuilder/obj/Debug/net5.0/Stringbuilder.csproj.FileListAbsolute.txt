@@ -1,0 +1,16 @@
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\09-Enumeracoes_composicoes\StringBuilder\bin\Debug\net5.0\Stringbuilder.exe
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\09-Enumeracoes_composicoes\StringBuilder\bin\Debug\net5.0\Stringbuilder.deps.json
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\09-Enumeracoes_composicoes\StringBuilder\bin\Debug\net5.0\Stringbuilder.runtimeconfig.json
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\09-Enumeracoes_composicoes\StringBuilder\bin\Debug\net5.0\Stringbuilder.runtimeconfig.dev.json
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\09-Enumeracoes_composicoes\StringBuilder\bin\Debug\net5.0\Stringbuilder.dll
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\09-Enumeracoes_composicoes\StringBuilder\bin\Debug\net5.0\ref\Stringbuilder.dll
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\09-Enumeracoes_composicoes\StringBuilder\bin\Debug\net5.0\Stringbuilder.pdb
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\09-Enumeracoes_composicoes\StringBuilder\obj\Debug\net5.0\Stringbuilder.csproj.AssemblyReference.cache
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\09-Enumeracoes_composicoes\StringBuilder\obj\Debug\net5.0\Stringbuilder.GeneratedMSBuildEditorConfig.editorconfig
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\09-Enumeracoes_composicoes\StringBuilder\obj\Debug\net5.0\Stringbuilder.AssemblyInfoInputs.cache
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\09-Enumeracoes_composicoes\StringBuilder\obj\Debug\net5.0\Stringbuilder.AssemblyInfo.cs
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\09-Enumeracoes_composicoes\StringBuilder\obj\Debug\net5.0\Stringbuilder.csproj.CoreCompileInputs.cache
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\09-Enumeracoes_composicoes\StringBuilder\obj\Debug\net5.0\Stringbuilder.dll
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\09-Enumeracoes_composicoes\StringBuilder\obj\Debug\net5.0\ref\Stringbuilder.dll
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\09-Enumeracoes_composicoes\StringBuilder\obj\Debug\net5.0\Stringbuilder.pdb
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\09-Enumeracoes_composicoes\StringBuilder\obj\Debug\net5.0\Stringbuilder.genruntimeconfig.cache

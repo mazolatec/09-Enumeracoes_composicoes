@@ -3,7 +3,6 @@ D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\09-Enumeracoes_com
 D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\09-Enumeracoes_composicoes\FuncionarioControle\bin\Debug\net5.0\FuncionarioControle.runtimeconfig.json
 D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\09-Enumeracoes_composicoes\FuncionarioControle\bin\Debug\net5.0\FuncionarioControle.runtimeconfig.dev.json
 D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\09-Enumeracoes_composicoes\FuncionarioControle\bin\Debug\net5.0\FuncionarioControle.dll
-D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\09-Enumeracoes_composicoes\FuncionarioControle\bin\Debug\net5.0\ref\FuncionarioControle.dll
 D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\09-Enumeracoes_composicoes\FuncionarioControle\bin\Debug\net5.0\FuncionarioControle.pdb
 D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\09-Enumeracoes_composicoes\FuncionarioControle\obj\Debug\net5.0\FuncionarioControle.csproj.AssemblyReference.cache
 D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\09-Enumeracoes_composicoes\FuncionarioControle\obj\Debug\net5.0\FuncionarioControle.GeneratedMSBuildEditorConfig.editorconfig
@@ -14,3 +13,4 @@ D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\09-Enumeracoes_com
 D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\09-Enumeracoes_composicoes\FuncionarioControle\obj\Debug\net5.0\ref\FuncionarioControle.dll
 D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\09-Enumeracoes_composicoes\FuncionarioControle\obj\Debug\net5.0\FuncionarioControle.pdb
 D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\09-Enumeracoes_composicoes\FuncionarioControle\obj\Debug\net5.0\FuncionarioControle.genruntimeconfig.cache
+D:\CURSOS\UDEMY\C#COMPLETOProgramacaoOrientadaObjetosProjetos\09-Enumeracoes_composicoes\FuncionarioControle\obj\Debug\net5.0\refint\FuncionarioControle.dll
